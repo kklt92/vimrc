@@ -1,0 +1,1 @@
+/home/kklt92/.vimrc
